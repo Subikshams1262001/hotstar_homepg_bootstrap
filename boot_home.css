@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+.navbar {
+    height: 80px;
+}
+
 body {
     background-color: #00091a;
 }
@@ -13,7 +17,7 @@ body {
 
 .item {
     width: 150px;
-    height: 180px;
+    height: 220px;
 }
 
 .overflow-scroll::-webkit-scrollbar {
